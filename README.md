@@ -6,8 +6,7 @@ Para a segurança dos usuário, caso este não escolha um comprimento de senha, 
 *Obs.: Nenhuma senha é 100% segura, utilize com atenção e não se esqueça de atualizar a sua senha periodicamente.*  
 *Obs².: Sempre que possível, recomenda-se a utilização de 2FA (Autenticação de dois fatores) ou MFA (Autenticação multifator).*
 
-![image](https://github.com/cyberdemetrius/gerador_de_senhas/assets/149440517/afcf3b3d-395d-4c6f-8e68-f30b5f51e8ef)
-
+![image](https://github.com/cyberdemetrius/gerador_de_senhas/assets/149440517/bced8361-d0f6-4385-80a1-ce024088b4f2) ![image](https://github.com/cyberdemetrius/gerador_de_senhas/assets/149440517/28fefc1b-184c-47c3-bf3b-3a69d3ce57b6)
 
 ## Secure Password Generator [EN-US]
 A small project for a Secure Password Generator using Python and the Tkinter graphical interface. It allows users to choose the length of the password and the types of characters to include (Letters, numbers and special characters).
