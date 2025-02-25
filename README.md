@@ -1,5 +1,5 @@
 ## Gerador de Senhas Seguras [PT-BR]
-Um pequeno projeto de um Gerador de Senhas Seguras utilizando Python e a interface gráfica Tkinter. Permite aos usuários escolherem o comprimento da senha e os tipos de caracteres a serem incluídos (Letras, números e caracteres especiais). 
+Um pequeno projeto (entregue como atividade da faculdade) de um Gerador de Senhas Seguras utilizando Python e a interface gráfica Tkinter. Permite aos usuários escolherem o comprimento da senha e os tipos de caracteres a serem incluídos (Letras, números e caracteres especiais). O projeto principal foi entregue na minha faculdade, porém decidi fazer algumas mudanças e implementações por mera diversão e estudo próprio. 
 
 Para a segurança dos usuário, caso este não escolha um comprimento de senha, o Gerador irá gerar uma senha com 10 caracteres por padrão. 
 
